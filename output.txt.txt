@@ -1,0 +1,50 @@
+--- Student Management System ---
+1. Add Student
+2. View Students
+3. Search Student
+4. Delete Student
+5. Exit
+Enter your choice: 1
+Enter ID: 1
+Enter Name: Viraj
+Enter Age: 21
+Enter Course: Engineering
+? Student Added Successfully!
+
+--- Student Management System ---
+1. Add Student
+2. View Students
+3. Search Student
+4. Delete Student
+5. Exit
+Enter your choice: 2
+ID: 1, Name: Viraj, Age: 21, Course: Engineering
+
+--- Student Management System ---
+1. Add Student
+2. View Students
+3. Search Student
+4. Delete Student
+5. Exit
+Enter your choice: 3
+Enter Student ID to search: 1
+ID: 1, Name: Viraj, Age: 21, Course: Engineering
+
+--- Student Management System ---
+1. Add Student
+2. View Students
+3. Search Student
+4. Delete Student
+5. Exit
+Enter your choice: 4
+Enter Student ID to delete: 1
+ Student Deleted Successfully!
+
+--- Student Management System ---
+1. Add Student
+2. View Students
+3. Search Student
+4. Delete Student
+5. Exit
+Enter your choice: 5
+Exiting...
